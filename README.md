@@ -22,7 +22,7 @@
 </p>
   <h3 align="center">:open_hands: About Me :open_hands: </h3>
   <a href="https://velog.io/@victor247"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<
+
 
 Here are some ideas to get you started:
 
