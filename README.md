@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/Express-4479A1?style=flat-square&logo=Express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-2479A9?style=flat-square&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-2479A9?style=flat-square&logo=Spring&logoColor=white"/>
 </p>
   <h3 align="center">:open_hands: About Me :open_hands: </h3>
   <a href="https://velog.io/@victor247"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
